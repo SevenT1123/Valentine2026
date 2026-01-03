@@ -1,0 +1,1 @@
+I made this last year. Check one of my archive repo. I pushed to the new repo only because the archived repo had issues about deployment and I think push to a new repo and run Github pages saves more time than make a Github workflow especially I don't work much on this "project"
